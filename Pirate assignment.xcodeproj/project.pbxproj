@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		CE168B041A2775710069F517 /* Boss.m in Sources */ = {isa = PBXBuildFile; fileRef = CE168B031A2775710069F517 /* Boss.m */; };
 		CE667AFE1A221BB400A0AC1B /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CE667AFD1A221BB400A0AC1B /* main.m */; };
 		CE667B011A221BB400A0AC1B /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = CE667B001A221BB400A0AC1B /* AppDelegate.m */; };
 		CE667B041A221BB400A0AC1B /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CE667B031A221BB400A0AC1B /* ViewController.m */; };
@@ -45,8 +44,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		CE168B021A2775710069F517 /* Boss.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Boss.h; sourceTree = "<group>"; };
-		CE168B031A2775710069F517 /* Boss.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Boss.m; sourceTree = "<group>"; };
 		CE667AF81A221BB300A0AC1B /* Pirate assignment.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pirate assignment.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CE667AFC1A221BB400A0AC1B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		CE667AFD1A221BB400A0AC1B /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -187,8 +184,6 @@
 				CE667B2C1A22337200A0AC1B /* Tile.m */,
 				CE667B2E1A2251D800A0AC1B /* Factory.h */,
 				CE667B2F1A2251D800A0AC1B /* Factory.m */,
-				CE168B021A2775710069F517 /* Boss.h */,
-				CE168B031A2775710069F517 /* Boss.m */,
 			);
 			name = Model;
 			sourceTree = "<group>";
@@ -311,7 +306,6 @@
 				CE667B271A22307100A0AC1B /* Armor.m in Sources */,
 				CE667B301A2251D800A0AC1B /* Factory.m in Sources */,
 				CE667AFE1A221BB400A0AC1B /* main.m in Sources */,
-				CE168B041A2775710069F517 /* Boss.m in Sources */,
 				CE667B2D1A22337200A0AC1B /* Tile.m in Sources */,
 				CE667B2A1A22309000A0AC1B /* Character.m in Sources */,
 			);
